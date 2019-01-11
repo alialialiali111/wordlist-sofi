@@ -1,0 +1,2 @@
+# wordlist-sofi
+wordlist 
